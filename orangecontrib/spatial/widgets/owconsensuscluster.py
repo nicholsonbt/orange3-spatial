@@ -9,8 +9,6 @@ from Orange.widgets import gui, settings, widget
 from Orange.widgets.utils.concurrent import ConcurrentWidgetMixin
 from Orange.widgets.utils.itemmodels import DomainModel
 
-from orangecontrib.spectroscopy.utils import values_to_linspace, index_values
-
 from Orange.data.util import get_unique_names
 
 
