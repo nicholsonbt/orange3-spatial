@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 NAME = "Orange3-spatial"
 
-VERSION = "0.0.1"
+VERSION = "0.1.0"
 
 DESCRIPTION = "A collection of widgets that perform operations on the data given some x and y axes"
 LONG_DESCRIPTION = open(path.join(path.dirname(__file__), 'README.pypi'),
